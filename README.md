@@ -1,1 +1,1 @@
-# ceckpoints-css-layout
+# checkpoints-css-layout
